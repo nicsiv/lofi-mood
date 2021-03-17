@@ -10,6 +10,7 @@ Lofi Mood is a Ruby CLI app that gives users Spotify playlists based on their mo
 
 * User can choose their mood
 * User can view their playlist
+* User can name their playlist
 * User can edit their playlist
 * User can delete their playlsit
 * User can create a new playlsit
