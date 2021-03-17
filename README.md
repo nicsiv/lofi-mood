@@ -1,3 +1,5 @@
+![](https://github.com/nicsiv/lofi-mood/blob/master/db/ezgif.com-gif-maker%20(1).gif)
+
 # Link to Demo Video
 *  https://www.youtube.com/watch?v=VzY5kJ-aWLs&t=9s
 
